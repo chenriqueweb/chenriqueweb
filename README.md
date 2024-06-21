@@ -7,7 +7,7 @@ Aqui estão algumas das linguagens que eu utilizo:
 
 ## Linguagens de Programação e Ferramentas
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/chenriqueweb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chenriqueweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenriqueweb&layout=compact&langs_count=7&theme=tokyonight"/>
