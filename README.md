@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bem-vindo ao Meu Perfil
 
-<!--
-**chenriqueweb/chenriqueweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou Carlos Henrique, um desenvolvedor apaixonado por tecnologia e inovação. Aqui estão algumas das linguagens que eu utilizo:
 
-Here are some ideas to get you started:
+## Linguagens que Utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Linguagem       | Experiência |
+|-----------------|-------------|
+| JavaScript      | Intermediário|
+| Java            | Intermediário|
+| C#              | Intermediário|
+| HTML/CSS        | Avançado    |
+
+## Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenriqueweb&layout=compact)
